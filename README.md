@@ -119,7 +119,7 @@ TypeScript will flag any missing or misspelled fields.
 
 ### Resume
 
-Replace **`public/resume.pdf`** with your latest PDF and keep the file name. The download name shown to visitors is `resumeFileName` in `profile.ts`.
+Replace **`public/resume.pdf`** with your latest PDF and keep the file name. The download name visitors get is set in two places that should match: `resumeFileName` in `profile.ts` (used locally) and the `Content-Disposition` header for `/resume.pdf` in `vercel.json` (used on Vercel, where it takes precedence).
 
 > Note: the current `resume.pdf` includes your phone number. Use a version without it if you'd rather not publish it.
 
