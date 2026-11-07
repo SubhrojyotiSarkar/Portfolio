@@ -31,9 +31,7 @@ export const profile: Profile = {
   },
 
   about: [
-    "I'm a Computer Science undergraduate at Vellore Institute of Technology (VIT-AP), graduating in 2027. Most of what I build sits where machine learning meets backend engineering: services that retrieve, rank and reason over data, wrapped in APIs and interfaces people can actually use.",
-    'My recent work includes a hybrid-search RAG system that verifies every citation it produces, and a full-stack recruitment platform that ranks candidates with explainable skill matching. In both, I cared as much about evaluation, testing and deployment as about the model itself.',
-    "I'm especially interested in backend architecture and intelligent systems that stay reliable outside a notebook: measurable, well-tested and honest about what they don't know.",
+    "I'm a software developer currently pursuing my B.Tech in Computer Science, working towards carving my own path in the tech industry through continuous learning, experimentation, and building my skills. I love building things, exploring ideas, and turning them into something real. I believe in becoming the person you aspire to be before you get there. After all, to make it, you gotta LARP first.",
   ],
 
   focusAreas: ['AI / ML engineering', 'Retrieval & LLM systems', 'Backend & APIs', 'Full-stack products'],
