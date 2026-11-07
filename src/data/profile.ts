@@ -31,7 +31,7 @@ export const profile: Profile = {
   },
 
   about: [
-    "I'm a software developer currently pursuing my B.Tech in Computer Science, working towards carving my own path in the tech industry through continuous learning, experimentation, and building my skills. I love building things, exploring ideas, and turning them into something real. I believe in becoming the person you aspire to be before you get there. After all, to make it, you gotta LARP first.",
+    "I'm a software developer currently pursuing my B.Tech in Computer Science, working to carve my own path in the tech industry. I enjoy bringing ideas to life through code and learning by building things. I believe in becoming the person you aspire to be before you get there. After all, to make it, you gotta LARP first."
   ],
 
   focusAreas: ['AI / ML engineering', 'Retrieval & LLM systems', 'Backend & APIs', 'Full-stack products'],
